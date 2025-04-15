@@ -5,9 +5,9 @@ function Footer(){
     return(
         <>
         <div className={styles.footerMain}>
-            <div>Contact No: +919109811994 </div>
-            <div>location: https://googleMaps.com</div>
-            <div>Address: Gurgoan, Delhi</div>
+            <div>Contact No: +916394125879  </div>
+            <div>location: https://maps.app.goo.gl/rnfJqb4SFuncQqnKA</div>
+            <div>Address: Gurgaon, Delhi</div>
         </div>
         </>
     )
